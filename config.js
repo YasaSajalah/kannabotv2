@@ -44,30 +44,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/farsya2006'
-global.sgh = 'https://github.com/YasaSajalah'
+global.sig = '-'
+global.sgh = '-'
 global.sgc = 'https://chat.whatsapp.com/D2X4bSIwsJq2OQLZV0uHXb'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
 global.pdana = '081218100935'
-global.povo = ''
+global.povo = '-'
 global.pgopay = '081218100935'
 global.ppulsa = '081218100935'
-global.ppulsa2 = ''
-global.psaweria = 'https://saweria.co/CattusSMP'
+global.ppulsa2 = '-'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285387666296'
+global.nomorbot = '19799423695'
 global.nomorown = '6281218100935'
 global.namebot = 'FumikoBotz'
-global.nameown = 'Farsya'
+global.nameown = 'Deviana'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-['6281218100935', 'Farsya', true]
+['6281218100935', 'Deviana', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -117,14 +117,14 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘FumikoBotz˘ฅ ꒱ ‧₊˚꒷�
 global.wm3 = '⫹⫺ FumikoBotz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 WhatsApp Bot'
+global.titlebot = '🌱 FumikoBotz'
 global.author = global.wm
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/ca0bd41f210fe9be917d4.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/ca0bd41f210fe9be917d4.jpg'
-global.thumbbc = 'https://telegra.ph/file/ca0bd41f210fe9be917d4.jpg' //For broadcast
+global.thumb = 'https://telegra.ph/file/a4ba5f26c665185ebc7a4.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/a4ba5f26c665185ebc7a4.jpg'
+global.thumbbc = 'https://telegra.ph/file/a4ba5f26c665185ebc7a4.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
@@ -140,7 +140,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/ca0bd41f210fe9be917d4.jpg'
+global.thumbdoc = 'https://telegra.ph/file/a4ba5f26c665185ebc7a4.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
